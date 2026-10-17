@@ -1,4 +1,3 @@
-
 #################
 #app-ads.txt file
 #Updated: 15 July 2026

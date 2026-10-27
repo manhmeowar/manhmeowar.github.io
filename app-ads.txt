@@ -7,9 +7,8 @@
 ################
 MANAGERDOMAIN=yodo1.com
 ###############
-
+google.com, pub-5745182866191891, DIRECT, f08c47fec0942fa0
 #Applovin
-google.com, pub-6692966265562981, DIRECT, f08c47fec0942fa0
 applovin.com,cd4fc1eaeab59cc96879eb552b31534d,DIRECT
 adyoulike.com,2d578cf695c89ec2ba707280319d2020,RESELLER
 bidease.com,bidease_seller_26,RESELLER
